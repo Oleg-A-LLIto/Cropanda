@@ -1,5 +1,6 @@
 # Cropanda
 Simple, open-source SFX cropper. Extracts individual sounds from files with silences or multiple takes.
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## What's This?
